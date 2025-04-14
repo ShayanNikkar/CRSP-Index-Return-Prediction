@@ -9,7 +9,7 @@ This project applies machine learning techniques to forecast monthly excess retu
 - numpy
 - scikit-learn
 - seaborn
--matplotlib
+- matplotlib
 
 ## 🪜Key Steps:
 
