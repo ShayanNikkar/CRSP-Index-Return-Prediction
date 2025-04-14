@@ -2,7 +2,7 @@
 
 ## 📌Overview
 
-This project applies machine learning techniques to forecast monthly excess returns of the CRSP value-weighted market index using the Welch and Goyal financial indicators dataset. Covering data from 1927 to 2022, the analysis involves processing the dataset, calculating various financial indicators, and developing predictive models.
+This project applies machine learning techniques( random forest & ridge ) to forecast monthly excess returns of the CRSP value-weighted market index using the Welch and Goyal financial indicators dataset. Covering data from 1927 to 2022, the analysis involves processing the dataset, calculating various financial indicators, and developing predictive models.
 
 ## 📚Key Libraries: 
 - pandas
